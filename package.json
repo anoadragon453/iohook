@@ -56,6 +56,11 @@
   "supportedTargets": [
     [
       "electron",
+      "3.0.0",
+      "64"
+    ],
+    [
+      "electron",
       "4.0.4",
       "69"
     ],
